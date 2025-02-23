@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @programmerwali
-Aspiring IOS DEVELOPER
+#  Hi, I'm Wali – iOS Developer & AI Enthusiast  
 
-<!---
-programmerwali/programmerwali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**iOS Developer | AI & Machine Learning Enthusiast**  
+
+I build high-performance **iOS apps** using **Swift, UIKit, and CoreML**, with a passion for **AI-powered mobile solutions**.  
+
+### **🔹 Skills & Tech**  
+- **iOS Development** – Swift, UIKit, SwiftUI  
+- **AI & Machine Learning** – CoreML, Vision, Python  
+- **App Architecture** – MVVM, MVC  
+
+### **🔹 Notable Projects**  
+- **[Wardrobe AR](https://github.com/programmerwali/Wardrobe-AR-iOS-App)** – AI clothing detection app  
+-  **Liver Tumor Detection with Deep Learning** (Published with IEEE Xplore)  
+
+
