@@ -10,7 +10,7 @@ I build high-performance **iOS apps** using **Swift, UIKit, and CoreML**, with a
 - **App Architecture** – MVVM, MVC  
 
 ### **🔹 Notable Projects**  
-- **[Cosmora](https://github.com/programmerwali/Cosmora---Mood-Based-AI-Music-Player)** – Mood Based AI Music Player
+- **[Cosmora](https://github.com/programmerwali/Cosmora---Mood-Based-AI-Music-Player)** – AI Mood Based Music Player
 - **[Wardrobe AR](https://github.com/programmerwali/Wardrobe-AR-iOS-App)** – AI clothing detection app  
 -  **Liver Tumor Detection with Deep Learning** (Published with IEEE Xplore)  
 
