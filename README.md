@@ -1,12 +1,12 @@
-#  Hi, I'm Wali – iOS Developer & AI Enthusiast  
+#  Hi, I'm Wali – Gen AI ENGINEER
 
-**iOS Developer | AI & Machine Learning Enthusiast**  
+**GEN AI & Machine Learning ENGINEER**  
 
-I build high-performance **iOS apps** using **Swift, UIKit, and CoreML**, with a passion for **AI-powered mobile solutions**.  
+I build  end to end GEN AI Application web apps and high-performance **iOS apps** using **Swift, UIKit, and CoreML**, with a passion for **AI-powered mobile solutions**.  
 
 ### **🔹 Skills & Tech**  
 - **iOS Development** – Swift, UIKit, SwiftUI  
-- **AI & Machine Learning** – CoreML, Vision, Python  
+- **AI & Machine Learning** – CoreML, Vision, Python , DJANGO, FLASH, LLM INTEGRATION
 - **App Architecture** – MVVM, MVC  
 
 ### **🔹 Notable Projects**  
